@@ -1,3 +1,12 @@
 #Auto-Generated Directories
 venv/
 flagged/
+stablediffusion/
+outputs/
+dist/
+build/
+stable_diffusion.egg-info
+
+#Models
+models/*
+!models/.gitkeep
